@@ -1,0 +1,32 @@
+<!DOCTYPE html> 
+<html lang="pl-PL"> 
+<html> 
+     <head> 
+             <meta charset="utf-8"> 
+             <title>Miłosz Macholla</title> 
+     </head> 
+    <body> 
+ Miłosz Macholla
+<p align="right"> <font color="blue" size="7" face="Arial"> Miłosz </font> </p> <br>
+<p align="right"> <font color="blue" size="4" face="Arial"> Miłosz </font> </p> <br>
+<p align="right"> <font color="blue" size="2" face="Arial"> Miłosz </font> </p> <br>
+<p align="right"> <font color="blue" size="1" face="Arial"> Miłosz </font> </p> <br>
+<p align="right"> <font color="blue" size="3" face="Arial"> Miłosz </font> </p> <br>
+<p align="right"> <font color="blue" size="6" face="Arial"> Miłosz </font> </p> <br>
+<p align="right"> <font color="blue" size="5" face="Arial"> Miłosz </font> </p> <br>
+<h7>  Macholla </h1><br>
+<h6>  Macholla </h1><br>
+<h5>  Macholla </h1><br>
+<h4>  Macholla </h1><br>
+<h3>  Macholla </h1><br>
+<h2>  Macholla </h1><br>
+<h1>  Macholla </h1><br>
+<p align="right"> <font color="purple" size="7" face="Arial"> |-) + Spanie </font> </p> <br>
+<p align="left"> <font color="grey" size="6" face="Arial"> :# + Zamykanie ust </font> </p> <br>
+<p align="right"> <font color="aqua" size="1" face="Arial"> >:)) + Radość </font> </p> <br>
+<p align="center"> <font color="pink" size="2" face="Arial"> :| + Brak emocji</font> </p> <br>
+<p align="center"> <font color="geen" size="5" face="Arial"> :'( +Płacz </font> </p> <br>
+<p align="left"> <font color="yellow" size="3" face="Arial"> :(( + Duży smutek </font> </p> <br>
+<p align="right"> <font color="red" size="4" face="Arial">  ;-) +  puszczanie oczka </font> </p> <br>
+    </body> 
+  </html> 
